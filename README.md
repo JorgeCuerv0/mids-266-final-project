@@ -1,6 +1,4 @@
-Below is a template for your `README.md` file with titles and bash cells you can copy and paste:
 
-```markdown
 # MIDS 266 Final Project
 
 ## Introduction
