@@ -85,6 +85,10 @@ Before running the project, ensure the following are installed:
 2. **Analyze the Data:** Review the provided `.csv` and `.pkl` files for the learning tasks.
 3. **Explore the Report:** Read the final report for detailed insights into the project's implementation and results.
 
+## Dataset
+
+The dataset used in this project is the [CLEAR Corpus](https://github.com/scrosseye/CLEAR-Corpus).
+
 ## Results
 
 This project demonstrates how gamified, adaptive learning experiences can benefit language acquisition for newcomers. Key outcomes include:
@@ -107,5 +111,3 @@ This project is released under the [MIT License](LICENSE). You are free to use, 
 - **UC Berkeley MIDS Program:** For providing the foundation and resources for this project.
 - **Course Instructors and Peers:** For guidance and feedback throughout the development process.
 ```
-
-Feel free to customize any sections further according to your project's specifics.
